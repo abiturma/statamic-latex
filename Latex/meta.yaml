@@ -1,0 +1,6 @@
+name: Latex
+version: "1.0"
+description: It compiles LaTeX-Code and returns a png at its place
+url: https://github.com/abiturma
+developer: Aaron Kunert
+developer_url: https://github.com/abiturma

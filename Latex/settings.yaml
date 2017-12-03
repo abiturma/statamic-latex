@@ -1,0 +1,11 @@
+fields:
+  documentclass:
+    type: text
+  asset_folder: 
+    type: text  
+  path_to_latex: 
+    type: text  
+  path_to_dvips: 
+    type: text  
+  path_to_convert: 
+    type: text        

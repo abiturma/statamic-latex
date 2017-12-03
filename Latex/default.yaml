@@ -1,0 +1,5 @@
+path_to_latex: "{env:PATH_TO_LATEX}"
+path_to_dvips: "{env:PATH_TO_DVIPS}"
+path_to_convert: "{env:PATH_TO_CONVERT}"
+asset_folder: compiled-latex
+documentclass: extarticle
